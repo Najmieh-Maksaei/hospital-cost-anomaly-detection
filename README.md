@@ -1,5 +1,4 @@
 # hospital-cost-anomaly-detection
-# Hospital Cost Anomaly Detection
 
 This project presents a simple and reproducible Python pipeline for detecting anomalies in synthetic daily hospital cost data.
 
